@@ -21,7 +21,8 @@
 - You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 
-Tutorial de GIT para principantes! - Usando la linea de comandos en Git
+
+##### Tutorial de GIT para principantes! - Usando la linea de comandos en Git
 - https://www.youtube.com/watch?v=kEPF-MWGq1w
 
 
