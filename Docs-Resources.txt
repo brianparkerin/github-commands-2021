@@ -1,0 +1,5 @@
+Dealing with non-fast-forward errors
+https://docs.github.com/en/github/using-git/dealing-with-non-fast-forward-errors
+
+Tratamiento de errores sin avance rápido
+https://docs.github.com/es/enterprise-server@2.21/github/using-git/dealing-with-non-fast-forward-errors
