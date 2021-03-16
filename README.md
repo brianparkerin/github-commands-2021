@@ -1,5 +1,5 @@
 # github-commands-2021
-# projecto-en-blanco Github Commands from local git
+# Github Commands from local git
 
 …or create a new repository on the command line
 - echo "# projecto-en-blanco" >> README.md
