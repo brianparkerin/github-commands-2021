@@ -1,0 +1,24 @@
+#GitHub Add new files to existing Project Commands:
+
+
+$ git init
+
+$ git status
+
+$ git add .
+
+$ git commit -m "first commit"
+
+$ git remote add origin https://github.com/brianparkerin/my-new-project.git
+
+$ git branch -M main
+
+$ git push -u origin main
+
+
+
+#push an existing repository from the command line
+
+$ git remote add origin https://github.com/brianparkerin/projecto-en-blanco.git
+$ git branch -M main
+$ git push -u origin main
