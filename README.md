@@ -22,7 +22,7 @@
 
 
 
-##### Tutorial de GIT para principantes! - Usando la linea de comandos en Git
+### Tutorial de GIT para principantes! - Usando la linea de comandos en Git
 - https://www.youtube.com/watch?v=kEPF-MWGq1w
 
 
