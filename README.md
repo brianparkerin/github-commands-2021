@@ -26,3 +26,11 @@
 - https://www.youtube.com/watch?v=kEPF-MWGq1w
 
 
+
+### Tutorial de GIT - Parte 2 / Arreglando tus errores con la linea de comandos y usando Github.com
+- https://www.youtube.com/watch?v=7-JHoPyJy-Q
+
+
+
+### Github Actions - CI/CD Gratuito y fácil en Github
+- https://www.youtube.com/watch?v=MNBf-ylhtK0
